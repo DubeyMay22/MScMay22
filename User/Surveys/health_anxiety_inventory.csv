@@ -1,4 +1,4 @@
-item_name,text,Type,Answers,Values,Score: Health anxiety,Optional,btn_width,question_width,
+item_name,text,Type,Answers,Values,score:healthanxiety,Optional,btn_width,question_width,
 Instructions1,<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how strongly each item applies to you:</span></span>,Instruct,,,,,,,
 instruct2,"Each question is this section consists of a group of four statements. Please read each group of statements carefully and then select the one which best describes your feelings, over the past six months. Identify the statement by ringing the letter next to it, i.e. if you think that statement (a) is correct, ring statement (a) ; it may be that more than one statement applies, in which case, please ring any that are applicable.",instruct,,,,,,,
 HAI1,,radio,I do not worry about my health.| I occasionally worry about my health. | I spend much of my time worrying about my health | I spend most of my time worrying about my health.,1|2|3|4,1,No,100px,10%,
